@@ -112,3 +112,30 @@
 - TCP and UDP – Transport Layer
 
 
+## 📅 Date: 2026-02-05
+
+### TCP/IP Protocol Stack
+- TCP/IP Protocol Stack
+
+---
+
+### Internet Protocol (by Bitten Tech)
+- IP Datagram
+- IP Datagram Structure
+- IP Service Type
+
+---
+
+### Network Layer
+- IPv4 Header
+- IPv6 Header
+- Routing Table
+
+---
+
+### Data Link Layer (by Cisco)
+- MAC Table
+- ARP Request
+
+
+
