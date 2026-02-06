@@ -27,3 +27,24 @@
   - ISP Connections
   - Cable and DSL Connections
   - Additional Connectivity Options
+
+## 📅 Date: 2026-02-02
+
+### Wireless and Mobile Networks
+- Types of Wireless Networks
+- Cell Phone Interactions with Different Networks
+- Other Wireless Networks
+- Mobile Device Connectivity
+  - Mobile Devices and Wi-Fi
+  - Wi-Fi Settings
+  - Configure Mobile Wi-Fi Connectivity
+  - Configure Cellular Data Settings
+  - Simple Connectivity with Bluetooth
+  - Bluetooth Pairing
+
+---
+
+### Network Fundamentals
+- Topologies
+- Transmission Media & Types of Cable
+- Switching & Type of Switching
