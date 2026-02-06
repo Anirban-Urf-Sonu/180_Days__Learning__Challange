@@ -28,6 +28,7 @@
   - Cable and DSL Connections
   - Additional Connectivity Options
 
+
 ## 📅 Date: 2026-02-02
 
 ### Wireless and Mobile Networks
@@ -48,3 +49,42 @@
 - Topologies
 - Transmission Media & Types of Cable
 - Switching & Type of Switching
+
+
+## 📅 Date: 2026-02-03
+
+### CISCO Network Architecture Fundamentals
+
+#### Networking Categories: LAN, WAN, and Cloud (by Cisco)
+- Network Fundamentals – Specialization Introduction
+- Network Categories: LANs, WANs, and Cloud
+- Network Categories: LANs
+- Network Categories: WANs
+- Network Categories: Cloud Computing
+
+---
+
+#### OSI Network Model (by Cisco)
+- Application Layer
+- Presentation Layer
+- Session Layer
+- Transport Layer
+- Network Layer
+- Data Link Layer
+- Physical Layer
+
+---
+
+#### Network Models (by Cisco)
+- TCP/IP Protocol Suite
+  - Application Layer
+  - Transport Layer
+  - Internet Layer
+  - Link Layer
+
+- Comparing OSI and TCP/IP
+  - ISO OSI Model vs TCP/IP
+
+- Layer 2 and Layer 3 Networks
+  - Layer 2: Data Link Layer
+  - Layer 3: Network Layer
