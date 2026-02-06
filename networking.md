@@ -137,5 +137,12 @@
 - MAC Table
 - ARP Request
 
+## 📅 Date: 2026-02-06
+
+### Subnetting (by Professor Messer)
+- Seven Second Subnetting
+- Binary Explanation of Concept of Subnetting & excel explaination of Subneting Concept
+
+
 
 
