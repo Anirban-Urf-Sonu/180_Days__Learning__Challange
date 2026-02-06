@@ -21,5 +21,7 @@ This repo is a public log of my daily learning journey where I stay consistent, 
 
 ---
 ## 180 Days Progress Tracker
-- [ ] Networking Basics — [Notes](networking.md)
+- [x] Networking — [Notes](networking.md)
+- [ ] Linux — [Notes](linux.md)
+
 
