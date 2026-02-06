@@ -88,3 +88,27 @@
 - Layer 2 and Layer 3 Networks
   - Layer 2: Data Link Layer
   - Layer 3: Network Layer
+
+
+## 📅 Date: 2026-02-04
+
+### IP Addressing, Forwarding, and Routing (by Cisco)
+- IP Addressing
+- Forwarding and Routing
+  - Packet Routing
+  - Packet Forwarding
+
+---
+
+### Comparing IPv4 and IPv6 (by Cisco)
+- IPv6
+- IPv6 vs IPv4
+- Evaluating IPv4 and IPv6
+
+---
+
+### Transport Layer (by Cisco)
+- Transport Layer
+- TCP and UDP – Transport Layer
+
+
